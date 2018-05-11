@@ -1,0 +1,12 @@
+<a name="1.0.0"></a>
+## [1.0.0](https://github.com/gmoz22/console-powerlogs/compare/v1.0.0...v1.0.0) (2018-05-10)
+
+
+### Features
+
+* Log level control via `console.setLevel()`
+* Basic logging for browsers and NodeJS
+  * `console.log()`
+  * `console.info()`
+  * `console.warn()`
+  * `console.error()`

@@ -1,0 +1,15 @@
+{
+  "name": "console-powerlogs",
+  "productName": "Console PowerLogs",
+  "version": "1.0.0",
+  "description": "Console shims for common browsers and NodeJS.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gmoz22/console-powerlogs.git"
+  },
+  "author": "Steve Oziel",
+  "license": "MIT",
+  "devDependencies": {},
+  "dependencies": {}
+}
